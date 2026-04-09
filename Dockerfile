@@ -28,4 +28,4 @@ ENV WEBHOOK_URL=webhook
 
 # run the application
 # CMD ["/bin/sh"]
-CMD ["python3", "server_checker.py"]
+CMD ["python3", "server_checker_bedrock.py"]

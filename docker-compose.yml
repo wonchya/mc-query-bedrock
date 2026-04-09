@@ -1,8 +1,6 @@
-version: '3'
-
 services:
   mc-query:
-    image: soulsender/mc-query:latest
+    image: wonchya/mc-query-bedrock:latest
     environment:
       - SERVER=ip or hostname
       - WEBHOOK_URL=your discord webhook url

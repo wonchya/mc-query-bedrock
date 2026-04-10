@@ -15,4 +15,4 @@ docker-compose up -d
 ```
 Now whenever someone joins or leaves your server, a discord webhook will be sent to inform users about the server activity!
 
-![](example.png)
+![](examle.png)

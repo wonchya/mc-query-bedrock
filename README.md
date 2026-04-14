@@ -11,7 +11,7 @@ Edit the `SERVER` and `WEBHOOK_URL` variables in the `docker-compose.yml` file w
 
 Start the container with:
 ```sh
-docker-compose up -d
+docker compose up -d
 ```
 Now whenever someone joins or leaves your server, a discord webhook will be sent to inform users about the server activity!
 
